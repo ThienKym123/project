@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza Margherita",
+    "price": 10.99,
+    "category": "Pizza",
+    "image": "https://au.ooni.com/cdn/shop/articles/20220211142645-margherita-9920.jpg?crop=center&height=800&v=1662539926&width=800pizza",
+    "description": "Classic Italian pizza with fresh mozzarella, tomatoes, and basil on a thin crust."
+  },
+  
+  {
+    "id": 2,
+    "name": "Cheeseburger",
+    "price": 8.99,
+    "category": "Burger",
+    "image": "https://www.sargento.com/assets/Uploads/Recipe/Image/burger_0__FillWzExNzAsNTgzXQ.jpg",
+    "description": "Juicy beef patty topped with melted cheese, lettuce, tomato, and pickles on a toasted bun."
+  },
+  {
+    "id": 3,
+    "name": "Sushi Pasta",
+    "price": 15.99,
+    "category": "Pasta",
+    "image": "https://www.heinens.com/content/uploads/2023/06/Tuna-Sushi-Rolls-800x550-1.jpg",
+    "description": "Fresh raw fish and vegetables wrapped in seasoned rice and nori seaweed."
+  },
+  {
+    "id": 4,
+    "name": "CocaCola",
+    "price": 2.59,
+    "category": "Drink",
+    "image": "https://product.hstatic.net/1000141988/product/nuoc_ngot_cocacola_vi_nguyen_ban_925ef3e056f047c48c152399f8612801.jpg",
+    "description": "Stir-fried rice noodles with eggs, tofu, shrimp, peanuts, and bean sprouts in a tangy sauce."
+  },
+  {
+    "id": 5,
+    "name": "Caesar Salad",
+    "price": 7.99,
+    "category": "Salad",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdbGQuZZTnMDdqPSvNtKQoEQYh46wKB6Z6aw&s",
+    "description": "Crisp romaine lettuce, croutons, and parmesan cheese tossed in a creamy Caesar dressing."
+  }
+]   

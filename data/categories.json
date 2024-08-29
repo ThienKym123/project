@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza",
+    "image": "pizza"
+  },
+  {
+    "id": 2,
+    "name": "Burger",
+    "image": "burger"
+  },
+  {
+    "id": 3,
+    "name": "Pasta",
+    "image": "pasta"
+  },
+  {
+    "id": 4,
+    "name": "Drink",
+    "image": "drink"
+  },
+  {
+    "id": 5,
+    "name": "Salad",
+    "image": "salad"
+  }
+]
